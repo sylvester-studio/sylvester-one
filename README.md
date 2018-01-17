@@ -1,2 +1,1 @@
-# sylvester-one
-Sylvester 1: Particles
+# Sylvester 1: Particles
